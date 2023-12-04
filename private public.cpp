@@ -78,7 +78,7 @@ private:
 	int unitsAvailable;
 
 
-public:
+private:
 
 
 	void setItemName(string itemName);
